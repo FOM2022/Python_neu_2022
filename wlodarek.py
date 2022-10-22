@@ -1,0 +1,7 @@
+print("Hallo Welt!")
+print("Test Test Test!")
+print("  ^  ^  ")
+print("  °  °  ")
+print("(|    |)")
+print("   <>   ")
+print("  \\__/  ")
